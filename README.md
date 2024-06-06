@@ -12,7 +12,7 @@
 I am an experienced professional with a strong background in financial data analysis, counter-party credit and vendor risk reviews, borrower quality rating, process improvement, and risk mitigation. I excel at leveraging data analysis tools and advanced Excel skills to drive insights and improve business processes. Currently, I am an Incoming IDP Summer Analyst at JPMorgan Chase & Co., pursuing a Master's in Business Analytics at CSU East Bay, and an MBA in Finance.
 
 **Professional Experience:**
-- **JPMorgan Chase & Co.**: Incoming IDP Summer Analyst
+- **JPMorgan Chase & Co.**: Incoming Innovation Development Summer Analyst
 - **Wells Fargo**: Operations Manager - Borrower Credit Quality Rating Analysis
 - **UBS**: Senior Financial Analyst - Credit Rating Analysis
 - **Genpact**: Assistant Manager- CounterParty & Vendor Risk Analysis
